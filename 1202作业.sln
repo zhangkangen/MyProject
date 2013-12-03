@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01单词反转", "_01单词反转\_01单词反转.csproj", "{44A1318F-3185-432C-BDA2-8323763BDDCE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02网页下载图片", "_02网页下载图片\_02网页下载图片.csproj", "{38A24CAF-CA2E-4AA0-BF96-B5C79876C6ED}"
@@ -8,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03 委托计算", "_03 委托计算\_03 委托计算.csproj", "{A8510D45-A222-4F22-A07D-6C5FE5334EBB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04序列化", "_04序列化\_04序列化.csproj", "{B3F160A8-7BE1-4CF4-87D0-AB42B1CDFE7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05资料管理器", "_05资料管理器\_05资料管理器.csproj", "{FF52B339-2E52-40D2-8928-204B03F8D56C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,10 @@ Global
 		{B3F160A8-7BE1-4CF4-87D0-AB42B1CDFE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F160A8-7BE1-4CF4-87D0-AB42B1CDFE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F160A8-7BE1-4CF4-87D0-AB42B1CDFE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF52B339-2E52-40D2-8928-204B03F8D56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF52B339-2E52-40D2-8928-204B03F8D56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF52B339-2E52-40D2-8928-204B03F8D56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF52B339-2E52-40D2-8928-204B03F8D56C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

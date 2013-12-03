@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04序列化", "_04序列�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05资料管理器", "_05资料管理器\_05资料管理器.csproj", "{FF52B339-2E52-40D2-8928-204B03F8D56C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06敏感词案例", "_06敏感词案例\_06敏感词案例.csproj", "{A0E4A709-19DB-42B3-8B16-B08942222928}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FF52B339-2E52-40D2-8928-204B03F8D56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF52B339-2E52-40D2-8928-204B03F8D56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF52B339-2E52-40D2-8928-204B03F8D56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E4A709-19DB-42B3-8B16-B08942222928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E4A709-19DB-42B3-8B16-B08942222928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E4A709-19DB-42B3-8B16-B08942222928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E4A709-19DB-42B3-8B16-B08942222928}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

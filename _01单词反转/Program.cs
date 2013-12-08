@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +17,7 @@ namespace _01单词反转
             for (int i = 0; i < words.Length; i++)
             {
                 char[] chs = words[i].ToCharArray();
-                for (int j = 0; j < chs.Length/2; j++)
+                for (int j = 0; j < chs.Length / 2; j++)
                 {
                     char temp = chs[j];
                     chs[j] = chs[chs.Length - 1 - j];
@@ -27,6 +28,10 @@ namespace _01单词反转
             input = string.Join(" ", words);
             Console.WriteLine(input);
             Console.ReadKey();
+
+
+
+
         }
     }
 }
